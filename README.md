@@ -14,8 +14,8 @@ In this project, I analysed the titanic dataset, posed questions and communicate
 
 ##How to Run Project
 1. Using terminal, navigate to the files root directory.
-2. Type **jupyter notebook Titanic_Investigation.ipynb** to launch the IPython Notebook.
-3. Under the link Cell, select Run all to ensure all code blocks have been run (Need to run all blocks at beginning as values not stored when Notebook is shutdown).
+2. In the terminal, type **jupyter notebook Titanic_Investigation.ipynb** to launch the IPython Notebook.
+3. Click the **Cell** button and select **Run all** to ensure all code blocks have been run (values not stored when Notebook is shutdown).
 4. To log out, enter ctrl-c twice in the terminal.
 
 [1]: http://python.org
